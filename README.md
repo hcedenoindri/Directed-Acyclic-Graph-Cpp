@@ -7,4 +7,4 @@ All work done in this project follows the rules described in the course syllabus
 ### - Hector Cedeno Indriago
 
 ## Project execution and testing
-To execute and test this project, refer to #TESTS/TESTS-README#.
+To execute and test this project, refer to ![TESTS/TESTS-README](TESTS/TESTS-README).
