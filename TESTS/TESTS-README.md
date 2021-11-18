@@ -1,7 +1,7 @@
 
 
 This folder contains numerous tester programs and problem instances
-for testing the program-5 correctness.
+for testing the project 4 correctness.
 
 Conventions:
 
@@ -15,7 +15,7 @@ The naming of the .ref files are indicative of the features tested.
 
 To get started running individual tests:
 
-    - copy your Graph.h file into a folder with all of these files.
+    - copy your Graph.h file into this directory.
     - run make
     - examine one or more of the .ref files.  You will see that it includes
         exactly how the test case should be run.  Try it!  Does the output
